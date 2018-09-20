@@ -5,3 +5,4 @@ this.color =  color
 this.print = _pcolor => console.log(this.color)}
 
 //thid is new comment
+//comment num 2
